@@ -7,7 +7,7 @@ curah hujan dan luas panen padi di 27 kabupaten/kota Jawa Barat tahun 2025.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py/python -m streamlit run app.py
 ```
 
 Buka `http://localhost:8501`.
